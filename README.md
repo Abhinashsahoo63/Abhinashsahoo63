@@ -56,19 +56,19 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhinashsahoo63&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinashsahoo63&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinashsahoo63&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinashsahoo63&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Top Languages by Repo
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinashsahoo63&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinashsahoo63&langs_count=8&theme=tokyonight&layout=compact"/>
 
 </p>
 
@@ -77,6 +77,25 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinashsahoo63&theme=tokyo-night"/>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="mailto:Abhinashsahoo6370@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Abhinashsahoo63">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
 
 ---
 
