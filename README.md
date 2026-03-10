@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Abhinash Sahoo</h1>
+<h1 align="center">Hi 👋, I'm Abhinash Sahoo</h1>
 
 <p align="center">
 Machine Learning Enthusiast • Python Developer • AI Learner
