@@ -54,7 +54,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinashsahoo63&show_icons=true&theme=tokyonight"/>
 
@@ -83,6 +83,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 ## 📫 Connect With Me
 
 <p>
+
 <a href="mailto:Abhinashsahoo6370@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -91,9 +92,14 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://www.linkedin.com/in/abhinash-sahoo-729421340/" />
+<a href="https://www.linkedin.com/in/abhinash-sahoo-729421340/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="https://www.instagram.com/_mr_abhee_1/?hl=en">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
 
