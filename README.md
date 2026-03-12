@@ -92,11 +92,11 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://www.linkedin.com/in/abhinash-sahoo-729421340/" />
 </a>
 </p>
 
 
 ---
 
-## 📫 Connect With Me
+
