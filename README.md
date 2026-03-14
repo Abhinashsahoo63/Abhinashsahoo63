@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=200&section=header&text=Abhinash%20Sahoo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Abhinash Sahoo</h1>
 
 <p align="center">
@@ -9,7 +11,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhinashsahoo63&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Abhinashsahoo63&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -24,31 +26,42 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ---
 
+
+
 ## 🛠 Tech Stack
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
+
+---
+
+## ⚡ Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge\&logo=java)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-red?style=for-the-badge)
 
 ---
 
@@ -74,35 +87,48 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ---
 
+## 🧠 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/Abhinashsahoo1234?theme=dark&font=Baloo&ext=heatmap"/>
+
+---
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinashsahoo63&theme=tokyo-night"/>
 
 ---
 
+
 ## 📫 Connect With Me
 
 <p>
 
 <a href="mailto:Abhinashsahoo6370@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/Abhinashsahoo63">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abhinash-sahoo-729421340/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/_mr_abhee_1/?hl=en">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://www.instagram.com/_mr_abhee_1/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://leetcode.com/u/Abhinashsahoo1234/">
+<img src="https://cdn.simpleicons.org/leetcode" height="48" width="48"/>
 </a>
 
 </p>
 
-
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=120&section=footer"/>
+
 
 
