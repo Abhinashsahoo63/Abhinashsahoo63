@@ -16,7 +16,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Currently learning **Machine Learning & AI**
 * Practicing **Data Structures and Algorithms**
@@ -28,7 +28,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -56,7 +56,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ---
 
-## ⚡ Skills
+##  Skills
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green?style=for-the-badge)
@@ -65,7 +65,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
 
