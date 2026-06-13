@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=200&section=header&text=Abhinash%20Sahoo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">Hi 👋, I'm Abhinash Sahoo</h1>
+<h1 align="center">Hi , I'm Abhinash Sahoo</h1>
 
 <p align="center">
 Machine Learning Enthusiast • Python Developer • AI Learner
@@ -18,11 +18,11 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ## 🚀 About Me
 
-* 🔭 Currently learning **Machine Learning & AI**
-* 📚 Practicing **Data Structures and Algorithms**
-* 🧠 Studying **Linear Algebra, Probability & Statistics for ML**
-* 💻 Building **Python and Data Science projects**
-* 🎯 Goal: Become a **Machine Learning Engineer**
+* Currently learning **Machine Learning & AI**
+* Practicing **Data Structures and Algorithms**
+* Studying **Linear Algebra, Probability & Statistics for ML**
+* Building **Python and Data Science projects**
+* Goal: Become a **Machine Learning Engineer**
 
 ---
 
@@ -77,7 +77,7 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ---
 
-## 📊 Top Languages by Repo
+## Top Languages by Repo
 
 <p align="center">
 
@@ -87,20 +87,20 @@ Machine Learning Enthusiast • Python Developer • AI Learner
 
 ---
 
-## 🧠 LeetCode Stats
+##  LeetCode Stats
 
 <img src="https://leetcard.jacoblin.cool/Abhinashsahoo1234?theme=dark&font=Baloo&ext=heatmap"/>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinashsahoo63&theme=tokyo-night"/>
 
 ---
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
 
